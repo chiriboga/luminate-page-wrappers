@@ -31,7 +31,7 @@ This code will show different links if the user is logged in or not
 </t:else>
 ```
 
-
+---
 ## Twitter Bootstrap 3
 While taking into account that other factors may have an impact on how this functions, Here is a very basic example of Twitter Bootstrap 3 and Luminate CMS.
 
